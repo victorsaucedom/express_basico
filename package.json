@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/victorsaucedom/express_basico/issues"
   },
-  "homepage": "https://github.com/victorsaucedom/express_basico#readme"
+  "homepage": "https://github.com/victorsaucedom/express_basico#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
 }
